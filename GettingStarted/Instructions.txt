@@ -1,0 +1,1 @@
+To run on Windows, go into .\GettingStarted\bin\Release\net6.0\win-x64\publish and run GettingStarted.exe

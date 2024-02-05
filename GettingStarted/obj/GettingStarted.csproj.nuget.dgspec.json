@@ -1,0 +1,98 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/swaimell/Documents/A-CSC-395/Getting Started MonoGame/GettingStarted/GettingStarted.csproj": {}
+  },
+  "projects": {
+    "/home/swaimell/Documents/A-CSC-395/Getting Started MonoGame/GettingStarted/GettingStarted.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/swaimell/Documents/A-CSC-395/Getting Started MonoGame/GettingStarted/GettingStarted.csproj",
+        "projectName": "GettingStarted",
+        "projectPath": "/home/swaimell/Documents/A-CSC-395/Getting Started MonoGame/GettingStarted/GettingStarted.csproj",
+        "packagesPath": "/home/swaimell/.nuget/packages/",
+        "outputPath": "/home/swaimell/Documents/A-CSC-395/Getting Started MonoGame/GettingStarted/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/swaimell/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MonoGame.Content.Builder.Task": {
+              "target": "Package",
+              "version": "[3.8.1.303, )"
+            },
+            "MonoGame.Framework.DesktopGL": {
+              "target": "Package",
+              "version": "[3.8.1.303, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.26, 6.0.26]"
+            },
+            {
+              "name": "Microsoft.AspNetCore.App.Runtime.win-x64",
+              "version": "[6.0.26, 6.0.26]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[6.0.26, 6.0.26]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.26, 6.0.26]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Runtime.win-x64",
+              "version": "[6.0.26, 6.0.26]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/home/swaimell/.dotnet/sdk/8.0.101/RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win-x64": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

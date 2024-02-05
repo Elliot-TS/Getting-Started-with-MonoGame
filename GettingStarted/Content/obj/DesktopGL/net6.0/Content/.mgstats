@@ -1,0 +1,2 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"/home/swaimell/Documents/A-CSC-395/Getting Started MonoGame/GettingStarted/Content/squirrel.jpg","/home/swaimell/Documents/A-CSC-395/Getting Started MonoGame/GettingStarted/Content/bin/DesktopGL/Content/squirrel.xnb","TextureProcessor","Texture2DContent",192647,7680085,0.4867114

@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "nim9u9zaGoIgGeiPfE3znBZUs7PS+VbppvYBcLJJd6NA6eUHVYAVcyMtei/nEiGRRMO3baMz3AmbHVcEAdxlpQ==",
+  "success": true,
+  "projectFilePath": "/home/swaimell/Documents/A-CSC-395/Getting Started MonoGame/GettingStarted/GettingStarted.csproj",
+  "expectedPackageFiles": [
+    "/home/swaimell/.nuget/packages/monogame.content.builder.task/3.8.1.303/monogame.content.builder.task.3.8.1.303.nupkg.sha512",
+    "/home/swaimell/.nuget/packages/monogame.framework.desktopgl/3.8.1.303/monogame.framework.desktopgl.3.8.1.303.nupkg.sha512",
+    "/home/swaimell/.nuget/packages/microsoft.netcore.app.ref/6.0.26/microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
+    "/home/swaimell/.nuget/packages/microsoft.netcore.app.runtime.win-x64/6.0.26/microsoft.netcore.app.runtime.win-x64.6.0.26.nupkg.sha512",
+    "/home/swaimell/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.26/microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512",
+    "/home/swaimell/.nuget/packages/microsoft.aspnetcore.app.runtime.win-x64/6.0.26/microsoft.aspnetcore.app.runtime.win-x64.6.0.26.nupkg.sha512",
+    "/home/swaimell/.nuget/packages/microsoft.netcore.app.host.win-x64/6.0.26/microsoft.netcore.app.host.win-x64.6.0.26.nupkg.sha512"
+  ],
+  "logs": []
+}
